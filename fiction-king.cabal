@@ -26,7 +26,7 @@ source-repository head
 
 library
   exposed-modules:
-      Lib
+      Controller
   other-modules:
       Paths_fiction_king
   hs-source-dirs:

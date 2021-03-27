@@ -3,7 +3,7 @@
 {-# LANGUAGE DataKinds       #-}
 {-# LANGUAGE TemplateHaskell #-}
 {-# LANGUAGE TypeOperators   #-}
-module Lib
+module Controller
     ( startApp
     , app
     ) where

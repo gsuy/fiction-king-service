@@ -3,7 +3,7 @@
 {-# LANGUAGE DataKinds       #-}
 {-# LANGUAGE TemplateHaskell #-}
 {-# LANGUAGE TypeOperators   #-}
-module Server
+module Lib
     ( startApp
     , app
     ) where
